@@ -1,6 +1,6 @@
 # Awesome-Long-Horizon-Credit-Assignment-for-Agentic-RL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![image](./img/milestone.png)
+![image](./mainv1.png)
 
 
 ## 📢 News
