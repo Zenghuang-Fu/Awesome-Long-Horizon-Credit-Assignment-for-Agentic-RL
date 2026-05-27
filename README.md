@@ -5,7 +5,7 @@
 
 ## 📢 News
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
+- [Awesome-Long-Horizon-Credit-Assignment-for-Agentic-RL ](#awesome-long-horizon-credit-assignment-for-agentic-rl-)
     - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
   - [Why we need Vid-LLMs?](#why-we-need-vid-llms)
   - [😎 Vid-LLMs: Models](#-vid-llms-models)
