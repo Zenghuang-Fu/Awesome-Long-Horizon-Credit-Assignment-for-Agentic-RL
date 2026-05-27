@@ -4,31 +4,6 @@
 
 
 ## 📢 News
-[10/06/2025]
-
-🔥 Our follow-up work—[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)—is now available on [arXiv](https://arxiv.org/abs/2510.05034) and [Hugging Face Papers](https://huggingface.co/papers/2510.05034)!
-
-
-[05/04/2025]
-
-🌟 Our Vid-LLM survey has been accepted to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!
-👉 [IEEE Xplore](https://ieeexplore.ieee.org/document/10982110) \| [GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
-
-[07/23/2024]
-
-📢 We've recently updated our survey: “Video Understanding with Large Language Models: A Survey”!
-
-✨ This comprehensive survey covers video understanding techniques powered by large language models (Vid-LLMs), training strategies, relevant tasks, datasets, benchmarks, and evaluation methods, and discusses the applications of Vid-LLMs across various domains.
-
-🚀 **What's New in This Update**:
-<br>✅ Updated to include around 100 additional Vid-LLMs and 15 new benchmarks as of June 2024.
-<br>✅ Introduced a novel taxonomy for Vid-LLMs based on video representation and LLM functionality.
-<br>✅ Added a Preliminary chapter, reclassifying video understanding tasks from the perspectives of granularity and language involvement, and enhanced the LLM Background section.
-<br>✅ Added a new Training Strategies chapter, removing adapters as a factor for model classification.
-<br>✅ All figures and tables have been redesigned.
-
-Multiple minor updates will follow this major update. And the GitHub repository will be gradually updated soon. We welcome your reading and feedback ❤️
-
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome-LLMs-for-Video-Understanding ](#awesome-llms-for-video-understanding-)
     - [🔥🔥🔥 Video Understanding with Large Language Models: A Survey](#-video-understanding-with-large-language-models-a-survey)
