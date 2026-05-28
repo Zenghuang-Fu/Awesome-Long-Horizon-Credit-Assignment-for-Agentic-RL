@@ -10,8 +10,8 @@ A curated list of papers, benchmarks, methods, and resources for **Long-Horizon 
 
 ## 📢 News
 
-- 🚀 2026-XX-XX: Repository initialized.
-- 📝 2026-XX-XX: Taxonomy for long-horizon credit assignment released.
+- 🚀 2026-05-27: Repository initialized.
+- 📝 2026-05-28: Taxonomy for long-horizon credit assignment released.
 
 ---
 
