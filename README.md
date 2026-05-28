@@ -92,7 +92,8 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 
 | 📖 Title | 🛠 Model / Method | 📅 Date | 💻 Code | 🏛 Venue |
 | :--- | :---: | :---: | :---: | :---: |
-| [Tree of Thoughts](https://arxiv.org/abs/2305.10601) | Tree of Thoughts | 2023 | [Code](https://github.com/princeton-nlp/tree-of-thought-llm) | NeurIPS |
+| [Tree search for llm agent reinforcement learning](https://arxiv.org/pdf/2509.21240) | Tree-GRPO | 2026 | [Code](https://github.com/AMAP-ML/Tree-GRPO) | ICLR |
+|[Tree-structured reinforcement fine-tuning for self-evolving embodied agents](https://proceedings.neurips.cc/paper_files/paper/2025/file/7103cd82de95a7b30983fcf74ba499ac-Paper-Conference.pdf)|SEEA-R1|2026|[Code](https://seea-r1.github.io/)|NeurIPS|
 | Paper Title | Method Name | Year | [Code](#) | Venue |
 
 ### 4️⃣ Action-level and Tool-use Credit Assignment
@@ -117,7 +118,8 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 
 | 📖 Title | 🛠 Model / Method | 📅 Date | 💻 Code | 🏛 Venue |
 | :--- | :---: | :---: | :---: | :---: |
-| [PPO](https://arxiv.org/abs/1707.06347) | PPO | 2017 | - | arXiv |
+| [Group-in-Group Policy Optimization for LLM Agent Training](https://proceedings.neurips.cc/paper_files/paper/2025/file/420c9f777c0b4f78d515e53cf74d58b2-Paper-Conference.pdf) | GIGPO | 2025 | [Code](https://github.com/langfengQ/verl-agent) | NeurIPS |
+| [Adaptive tree policy optimization for multi-turn medical dialogue](https://arxiv.org/pdf/2603.02216)|ATPO|2026|-|ICLR|
 
 ### 8️⃣ Benchmarks and Evaluation Protocols
 
