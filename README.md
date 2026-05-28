@@ -138,5 +138,5 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hanxiaofeng781/Awesome-Long-Horizon-Credit-Assignment-for-Agentic-RL&type=Date)](https://www.star-history.com/#hanxiaofeng781/Awesome-Long-Horizon-Credit-Assignment-for-Agentic-RL&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Zenghuang-Fu/Awesome-Long-Horizon-Credit-Assignment-for-Agentic-RL&type=Date)](https://www.star-history.com/#Zenghuang-Fu/Awesome-Long-Horizon-Credit-Assignment-for-Agentic-RL&Date)
 }
