@@ -121,6 +121,8 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [Group-in-Group Policy Optimization for LLM Agent Training](https://proceedings.neurips.cc/paper_files/paper/2025/file/420c9f777c0b4f78d515e53cf74d58b2-Paper-Conference.pdf) | GIGPO | 2025 | [Code](https://github.com/langfengQ/verl-agent) | NeurIPS |
 | [Adaptive tree policy optimization for multi-turn medical dialogue](https://arxiv.org/pdf/2603.02216)|ATPO|2026|-|ICLR|
 |[Tree-Structured Advantage Redistribution for Group-Based RL](https://arxiv.org/abs/2601.03703)|TreeAdv|2026|-|arxiv|
+|[End-to-end policy optimization for gui agents with experience replay](https://arxiv.org/pdf/2505.16282?)|Arpo|2025|-|arxiv|
+|[Agentic reinforced policy optimization](https://arxiv.org/pdf/2507.19849)|ARPO|2025|-|arxiv|
 
 ### 8️⃣ Benchmarks and Evaluation Protocols
 
