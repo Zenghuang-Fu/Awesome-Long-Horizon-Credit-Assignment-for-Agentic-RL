@@ -126,6 +126,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 |[Agentic reinforced policy optimization](https://arxiv.org/pdf/2507.19849)|ARPO|2025|-|arxiv|
 |[Agentic entropy-balanced policy optimization](https://arxiv.org/pdf/2510.14545)|AEPO|2025|-|arxiv|
 |[Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents](https://arxiv.org/pdf/2510.14967?)|IGPO|2026|[Code](https://github.com/GuoqingWang1/IGPO)|ICLR|
+|[Meta-RL Induces Exploration in Language Agents](https://arxiv.org/pdf/2512.16848)|LaMer|2026|-|ICLR|
 
 
 ### 8️⃣ Benchmarks and Evaluation Protocols
