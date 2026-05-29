@@ -88,7 +88,6 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | :--- | :---: | :---: | :---: | :---: |
 | [Turn-level advantage estimation with ppo for improved multi-turn rl in agentic llms](https://aclanthology.org/2026.findings-eacl.328.pdf) | Turn-ppo | 2026 | - | Findings of EACL |
 |[Step-level advantage assignment for long-horizon agents via trajectory graph](https://aclanthology.org/2026.findings-eacl.247.pdf)|Salt|2026|-|Findings of EACL|
-| [Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](https://arxiv.org/abs/2504.15275) | PURE | 2025 | [Code](https://github.com/CJReinforce/PURE) | NeurIPS |
 | [Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](https://papers.nips.cc/paper_files/paper/2025/hash/be91eb86eb74efc055cff83e953f86ce-Abstract-Conference.html) | PURE / Min-form PRM | 2025 | [Code](https://github.com/CJReinforce/PURE) | NeurIPS |
 | [SSVPO: Effective Step-Level Credit Assignment for RL Training of Language Models](https://openreview.net/forum?id=g33DGvnHYd) | SSVPO / Sequential Shapley Value | 2026 | - | ICLR |
 | [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | SWEET-RL / Privileged Critic | 2025 | [Code](https://github.com/facebookresearch/sweet_rl) | arXiv |
