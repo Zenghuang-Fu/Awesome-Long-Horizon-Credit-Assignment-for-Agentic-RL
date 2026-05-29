@@ -85,7 +85,8 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 
 | 📖 Title | 🛠 Model / Method | 📅 Date | 💻 Code | 🏛 Venue |
 | :--- | :---: | :---: | :---: | :---: |
-| [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050) | Process Reward Model | 2023 | - | arXiv |
+| [Turn-level advantage estimation with ppo for improved multi-turn rl in agentic llms](https://aclanthology.org/2026.findings-eacl.328.pdf) | Turn-ppo | 2026 | - | EACL |
+|[Step-level advantage assignment for long-horizon agents via trajectory graph](https://aclanthology.org/2026.findings-eacl.247.pdf)|Salt|2026|-|EACL|
 | Paper Title | Method Name | Year | [Code](#) | Venue |
 
 ### 3️⃣ Branch-level and Tree-structured Credit Assignment
@@ -106,7 +107,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 
 | 📖 Title | 🛠 Model / Method | 📅 Date | 💻 Code | 🏛 Venue |
 | :--- | :---: | :---: | :---: | :---: |
-| [RAG](https://arxiv.org/abs/2005.11401) | Retrieval-Augmented Generation | 2020 | - | NeurIPS |
+| [Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization](https://arxiv.org/pdf/2603.03078)|RAPO|2026|-|KDD|
 
 ### 6️⃣ Memory-level and Skill-level Credit Assignment
 
@@ -123,6 +124,9 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 |[Tree-Structured Advantage Redistribution for Group-Based RL](https://arxiv.org/abs/2601.03703)|TreeAdv|2026|-|arxiv|
 |[End-to-end policy optimization for gui agents with experience replay](https://arxiv.org/pdf/2505.16282?)|Arpo|2025|-|arxiv|
 |[Agentic reinforced policy optimization](https://arxiv.org/pdf/2507.19849)|ARPO|2025|-|arxiv|
+|[Agentic entropy-balanced policy optimization](https://arxiv.org/pdf/2510.14545)|AEPO|2025|-|arxiv|
+|[Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents](https://arxiv.org/pdf/2510.14967?)|IGPO|2026|[Code](https://github.com/GuoqingWang1/IGPO)|ICLR|
+
 
 ### 8️⃣ Benchmarks and Evaluation Protocols
 
