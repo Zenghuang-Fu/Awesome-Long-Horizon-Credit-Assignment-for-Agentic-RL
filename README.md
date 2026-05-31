@@ -80,7 +80,6 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2402.03300) | GRPO | 2025 | [Code](https://github.com/deepseek-ai/deepseek-r1) | arXiv |
 |[Understanding self-evolution in llm agents via multi-turn reinforcement learning](https://arxiv.org/pdf/2504.20073)|Ragen|2025|[Code](https://github.com/RAGEN-AI/RAGEN)|arxiv|
 | [Latent Reward: LLM-Empowered Credit Assignment in Episodic Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34213) | Latent Reward / LaRe | 2025 | [Code](https://github.com/thu-rllab/LaRe) | AAAI |
-| Paper Title | Method Name | Year | [Code](#) | Venue |
 
 ### 2️⃣ Step-level and Turn-level Credit Assignment
 
