@@ -101,6 +101,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models](https://arxiv.org/abs/2505.23564) | SPO / SPO-tree | 2025 | [Code](https://github.com/AIFrameResearch/SPO) | NeurIPS |
 | [TreeRPO: Tree Relative Policy Optimization](https://arxiv.org/abs/2506.05183) | TreeRPO | 2025 | [Code](https://github.com/yangzhch6/TreeRPO) | arXiv |
 | [Exploiting Tree Structure for Credit Assignment in RL Training of LLMs](https://arxiv.org/abs/2509.18314) | TEMPO / Prefix-to-Tree | 2025 | - | arXiv |
+｜[AT2PO: Agentic Turn-based Policy Optimization via Tree Search](https://arxiv.org/abs/2601.04767)｜AT2PO|2026|[Code](https://github.com/zzfoutofspace/ATPO)|arXiv|
 
 
 ### 4️⃣ Action-level and Tool-use Credit Assignment
