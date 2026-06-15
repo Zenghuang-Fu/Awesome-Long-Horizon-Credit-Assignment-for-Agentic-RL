@@ -85,6 +85,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 
 | 📖 Title | 🛠 Model / Method | 📅 Date | 💻 Code | 🏛 Venue |
 | :--- | :---: | :---: | :---: | :---: |
+| [StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2604.18401) | StepPO / Step-level Policy Optimization | 2026 | [Code](https://github.com/AgentR1/StepPO) | arXiv |
 | [Turn-level advantage estimation with ppo for improved multi-turn rl in agentic llms](https://aclanthology.org/2026.findings-eacl.328.pdf) | Turn-ppo | 2026 | - | Findings of EACL |
 |[Step-level advantage assignment for long-horizon agents via trajectory graph](https://aclanthology.org/2026.findings-eacl.247.pdf)|Salt|2026|-|Findings of EACL|
 | [Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](https://papers.nips.cc/paper_files/paper/2025/hash/be91eb86eb74efc055cff83e953f86ce-Abstract-Conference.html) | PURE / Min-form PRM | 2025 | [Code](https://github.com/CJReinforce/PURE) | NeurIPS |
