@@ -105,6 +105,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [TreeRPO: Tree Relative Policy Optimization](https://arxiv.org/abs/2506.05183) | TreeRPO | 2025 | [Code](https://github.com/yangzhch6/TreeRPO) | arXiv |
 | [Exploiting Tree Structure for Credit Assignment in RL Training of LLMs](https://arxiv.org/abs/2509.18314) | TEMPO / Prefix-to-Tree | 2025| -|arXiv |
 |[AT2PO: Agentic Turn-based Policy Optimization via Tree Search](https://arxiv.org/abs/2601.04767)|AT2PO|2026|[Code](https://github.com/zzfoutofspace/ATPO)|arXiv|
+| [RTMC: Step-Level Credit Assignment via Rollout Trees](https://arxiv.org/abs/2604.11037) | RTMC / Rollout-Tree Monte Carlo | 2026 | - | arXiv |
 
 
 ### 4️⃣ Action-level and Tool-use Credit Assignment
@@ -125,6 +126,8 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn Search Agents](https://openreview.net/forum?id=qkWP6phrvZ) | IGPO | 2026 | [Code](https://github.com/GuoqingWang1/IGPO) | ICLR |
 | [Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning](https://arxiv.org/abs/2601.10306) | EAPO | 2026 | - | arXiv |
 | [Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation](https://arxiv.org/abs/2505.20825) | RioRAG | 2025 | [Code](https://github.com/RUCAIBox/RioRAG) | arXiv |
+| [PiCA: Pivot-Based Credit Assignment for Search Agentic Reinforcement Learning](https://arxiv.org/abs/2605.09287) | PiCA / Pivot-Based Credit Assignment | 2026 | [Code](https://github.com/novdream/PiCA) | arXiv |
+
 
 
 ### 6️⃣ Memory-level and Skill-level Credit Assignment
@@ -151,7 +154,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [Stabilizing Off-Policy Training for Long-Horizon LLM Agent via Turn-Level Importance Sampling and Clipping-Triggered Normalization](https://arxiv.org/abs/2511.20718) | SORL / SO-PPO / SO-GRPO | 2025 | - | arXiv |
 | [Your Group-Relative Advantage Is Biased](https://arxiv.org/abs/2601.08521) | HA-DW / GRPO Bias Analysis | 2026 | - | arXiv |
 | [VinePPO: Refining Credit Assignment in RL Training of LLMs](https://proceedings.mlr.press/v267/kazemnejad25a.html) | VinePPO | 2025 | [Code](https://github.com/McGill-NLP/VinePPO) | ICML |
-
+| [InfoPO: Information-Driven Policy Optimization for User-Centric Agents](https://arxiv.org/abs/2603.00656) | InfoPO / Information-Gain Reward | 2026 | [Code](https://github.com/kfq20/InfoPO) | arXiv |
 
 ### 8️⃣ Benchmarks and Evaluation Protocols
 
