@@ -93,7 +93,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | SWEET-RL / Privileged Critic | 2025 | [Code](https://github.com/facebookresearch/sweet_rl) | arXiv |
 |[T2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/pdf/2605.02178)|T2PO|2026|[Code](https://github.com/WillDreamer/T2PO)|ICML(Spotlight)|
 | [Hindsight Credit Assignment for Long-Horizon LLM Agents](https://arxiv.org/pdf/2603.08754) | HCAPO / Hindsight Credit Assignment | 2026 | - | arXiv |
-
+| [Agentic Reinforcement Learning with Implicit Step Rewards](https://openreview.net/forum?id=ooROvpmxMV) | iStar / Implicit Step Rewards | 2026 | - | ICLR |
 
 ### 3️⃣ Branch-level and Tree-structured Credit Assignment
 
