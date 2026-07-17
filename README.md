@@ -94,6 +94,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 |[T2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/pdf/2605.02178)|T2PO|2026|[Code](https://github.com/WillDreamer/T2PO)|ICML(Spotlight)|
 | [Hindsight Credit Assignment for Long-Horizon LLM Agents](https://arxiv.org/pdf/2603.08754) | HCAPO / Hindsight Credit Assignment | 2026 | - | arXiv |
 | [Agentic Reinforcement Learning with Implicit Step Rewards](https://openreview.net/forum?id=ooROvpmxMV) | iStar / Implicit Step Rewards | 2026 | - | ICLR |
+|[TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents](https://arxiv.org/pdf/2607.13988)|TRACE|2026|-|arXiv|
 
 ### 3️⃣ Branch-level and Tree-structured Credit Assignment
 
