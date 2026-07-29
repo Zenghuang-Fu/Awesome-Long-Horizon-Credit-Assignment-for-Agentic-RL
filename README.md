@@ -12,6 +12,7 @@ A curated list of papers, benchmarks, methods, and resources for **Long-Horizon 
 
 - 🚀 2026-05-27: Repository initialized.
 - 📝 2026-05-28: Taxonomy for long-horizon credit assignment released.
+- 💻 2026-07-29: Code links added for 10 papers (TEMPO, RAPO, CriticSearch, Memory-R2, ARPO, AEPO, LaMer, MemGym, etc.).
 
 ---
 
@@ -104,7 +105,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 |[Tree-structured reinforcement fine-tuning for self-evolving embodied agents](https://proceedings.neurips.cc/paper_files/paper/2025/file/7103cd82de95a7b30983fcf74ba499ac-Paper-Conference.pdf)|SEEA-R1|2026|[Code](https://seea-r1.github.io/)|NeurIPS|
 | [Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models](https://arxiv.org/abs/2505.23564) | SPO / SPO-tree | 2025 | [Code](https://github.com/AIFrameResearch/SPO) | NeurIPS |
 | [TreeRPO: Tree Relative Policy Optimization](https://arxiv.org/abs/2506.05183) | TreeRPO | 2025 | [Code](https://github.com/yangzhch6/TreeRPO) | arXiv |
-| [Exploiting Tree Structure for Credit Assignment in RL Training of LLMs](https://arxiv.org/abs/2509.18314) | TEMPO / Prefix-to-Tree | 2025| -|arXiv |
+| [Exploiting Tree Structure for Credit Assignment in RL Training of LLMs](https://arxiv.org/abs/2509.18314) | TEMPO / Prefix-to-Tree | 2025| [Code](https://github.com/fatebreaker/tempo) |arXiv |
 |[AT2PO: Agentic Turn-based Policy Optimization via Tree Search](https://arxiv.org/abs/2601.04767)|AT2PO|2026|[Code](https://github.com/zzfoutofspace/ATPO)|ACL(Main)|
 | [RTMC: Step-Level Credit Assignment via Rollout Trees](https://arxiv.org/abs/2604.11037) | RTMC / Rollout-Tree Monte Carlo | 2026 | - | arXiv |
 
@@ -122,8 +123,8 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 
 | 📖 Title | 🛠 Model / Method | 📅 Date | 💻 Code | 🏛 Venue |
 | :--- | :---: | :---: | :---: | :---: |
-| [Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization](https://arxiv.org/pdf/2603.03078)|RAPO|2026|-|KDD|
-| [CriticSearch: Fine-Grained Credit Assignment for Search Agents via a Retrospective Critic](https://arxiv.org/abs/2511.12159) | CriticSearch | 2025 | - | arXiv |
+| [Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization](https://arxiv.org/pdf/2603.03078)|RAPO|2026|[Code](https://github.com/SiweiPro/RAPO)|KDD|
+| [CriticSearch: Fine-Grained Credit Assignment for Search Agents via a Retrospective Critic](https://arxiv.org/abs/2511.12159) | CriticSearch | 2025 | [Code](https://github.com/zhyaoch/CriticSearch) | arXiv |
 | [Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn Search Agents](https://openreview.net/forum?id=qkWP6phrvZ) | IGPO | 2026 | [Code](https://github.com/GuoqingWang1/IGPO) | ICLR |
 | [Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning](https://arxiv.org/abs/2601.10306) | EAPO | 2026 | - | arXiv |
 | [Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation](https://arxiv.org/abs/2505.20825) | RioRAG | 2025 | [Code](https://github.com/RUCAIBox/RioRAG) | arXiv |
@@ -136,7 +137,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | 📖 Title | 🛠 Model / Method | 📅 Date | 💻 Code | 🏛 Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | [Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents](https://arxiv.org/abs/2512.20092) | Memory-T1 | 2025 | [Code](https://github.com/Elvin-Yiming-Du/Memory-T1) | arXiv / OpenReview |
-| [Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents](https://arxiv.org/html/2605.21768v1) | Memory-R2 / LoGo-GRPO | 2026 | - | arXiv |
+| [Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents](https://arxiv.org/html/2605.21768v1) | Memory-R2 / LoGo-GRPO | 2026 | [Code](https://github.com/ahmedehabb/Memory-R2) | arXiv |
 | [SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models](https://arxiv.org/abs/2601.03555) | SCRIBE / Skill Prototype | 2026 | - | arXiv |
 | [CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430) | CODESKILL | 2026 | - | arXiv |
 
@@ -147,11 +148,11 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [Group-in-Group Policy Optimization for LLM Agent Training](https://proceedings.neurips.cc/paper_files/paper/2025/file/420c9f777c0b4f78d515e53cf74d58b2-Paper-Conference.pdf) | GIGPO | 2025 | [Code](https://github.com/langfengQ/verl-agent) | NeurIPS |
 | [Adaptive tree policy optimization for multi-turn medical dialogue](https://arxiv.org/pdf/2603.02216)|ATPO|2026|[Code](https://github.com/Quark-Medical/ATPO)|ICLR|
 |[Tree-Structured Advantage Redistribution for Group-Based RL](https://arxiv.org/abs/2601.03703)|TreeAdv|2026|-|arxiv|
-|[End-to-end policy optimization for gui agents with experience replay](https://arxiv.org/pdf/2505.16282?)|Arpo|2025|-|arxiv|
-|[Agentic reinforced policy optimization](https://arxiv.org/pdf/2507.19849)|ARPO|2025|-|arxiv|
-|[Agentic entropy-balanced policy optimization](https://arxiv.org/pdf/2510.14545)|AEPO|2025|-|arxiv|
+|[End-to-end policy optimization for gui agents with experience replay](https://arxiv.org/pdf/2505.16282?)|Arpo|2025|[Code](https://github.com/dvlab-research/ARPO)|arxiv|
+|[Agentic reinforced policy optimization](https://arxiv.org/pdf/2507.19849)|ARPO|2025|[Code](https://github.com/RUC-NLPIR/ARPO)|arxiv|
+|[Agentic entropy-balanced policy optimization](https://arxiv.org/pdf/2510.14545)|AEPO|2025|[Code](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO)|arxiv|
 |[Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn LLM Agents](https://arxiv.org/pdf/2510.14967?)|IGPO|2026|[Code](https://github.com/GuoqingWang1/IGPO)|ICLR|
-|[Meta-RL Induces Exploration in Language Agents](https://arxiv.org/pdf/2512.16848)|LaMer|2026|-|ICLR|
+|[Meta-RL Induces Exploration in Language Agents](https://arxiv.org/pdf/2512.16848)|LaMer|2026|[Code](https://github.com/mlbio-epfl/LaMer)|ICLR|
 | [Stabilizing Off-Policy Training for Long-Horizon LLM Agent via Turn-Level Importance Sampling and Clipping-Triggered Normalization](https://arxiv.org/abs/2511.20718) | SORL / SO-PPO / SO-GRPO | 2025 | - | arXiv |
 | [Your Group-Relative Advantage Is Biased](https://arxiv.org/abs/2601.08521) | HA-DW / GRPO Bias Analysis | 2026 | - | arXiv |
 | [VinePPO: Refining Credit Assignment in RL Training of LLMs](https://proceedings.mlr.press/v267/kazemnejad25a.html) | VinePPO | 2025 | [Code](https://github.com/McGill-NLP/VinePPO) | ICML |
@@ -162,8 +163,8 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | 📖 Title | 🛠 Benchmark / Environment | 📅 Date | 💻 Code | 🏛 Venue |
 | :--- | :---: | :---: | :---: | :---: |
 | [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | ColBench | 2025 | [Code](https://github.com/facebookresearch/sweet_rl) | arXiv |
-| [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://arxiv.org/abs/2605.20833) | MemGym | 2026 | - | arXiv |
-| [From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2604.09459) | Credit Assignment Survey / Protocol | 2026 | - | arXiv |
+| [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://arxiv.org/abs/2605.20833) | MemGym | 2026 | [Code](https://github.com/WujiangXu/MemGym) | arXiv |
+| [From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2604.09459) | Credit Assignment Survey / Protocol | 2026 | [Code](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL) | arXiv |
 | [Measuring AI Ability to Complete Long Tasks](https://arxiv.org/html/2503.14499v2) | Long Task Evaluation / Task Horizon | 2025 | [Code](https://github.com/METR/eval-analysis-public) | arXiv / METR |
 
 ---
@@ -180,4 +181,3 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Zenghuang-Fu/Awesome-Long-Horizon-Credit-Assignment-for-Agentic-RL&type=Date)](https://www.star-history.com/#Zenghuang-Fu/Awesome-Long-Horizon-Credit-Assignment-for-Agentic-RL&Date)
-}
