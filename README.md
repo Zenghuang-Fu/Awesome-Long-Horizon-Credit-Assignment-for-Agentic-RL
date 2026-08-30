@@ -166,6 +166,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://arxiv.org/abs/2605.20833) | MemGym | 2026 | [Code](https://github.com/WujiangXu/MemGym) | arXiv |
 | [From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2604.09459) | Credit Assignment Survey / Protocol | 2026 | [Code](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL) | arXiv |
 | [Measuring AI Ability to Complete Long Tasks](https://arxiv.org/html/2503.14499v2) | Long Task Evaluation / Task Horizon | 2025 | [Code](https://github.com/METR/eval-analysis-public) | arXiv / METR |
+| [AgentCreditBench](https://hectopascal.github.io/agent-credit-bench/) | Exact-oracle turn-level credit conformance suite | 2026 | [Code](https://github.com/hectopascal/agent-credit-bench) | — |
 
 ---
 
