@@ -6,6 +6,8 @@
 
 A curated list of papers, benchmarks, methods, and resources for **Long-Horizon Credit Assignment in Agentic Reinforcement Learning**.
 
+> **Our work.** We propose [SIPO: Selective-Inference Policy Optimization for Tree-Structured Agentic RL](https://arxiv.org/abs/2609.34805), a tree-structured agentic RL method that selectively expands promising branches and assigns credit from tree rollouts. [Code](https://github.com/Zenghuang-Fu/SIPO).
+
 ---
 
 ## 📢 News
@@ -108,6 +110,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [Exploiting Tree Structure for Credit Assignment in RL Training of LLMs](https://arxiv.org/abs/2509.18314) | TEMPO / Prefix-to-Tree | 2025| [Code](https://github.com/fatebreaker/tempo) |arXiv |
 |[AT2PO: Agentic Turn-based Policy Optimization via Tree Search](https://arxiv.org/abs/2601.04767)|AT2PO|2026|[Code](https://github.com/zzfoutofspace/ATPO)|ACL(Main)|
 | [RTMC: Step-Level Credit Assignment via Rollout Trees](https://arxiv.org/abs/2604.11037) | RTMC / Rollout-Tree Monte Carlo | 2026 | - | arXiv |
+| [SIPO: Selective-Inference Policy Optimization for Tree-Structured Agentic RL](https://arxiv.org/abs/2609.34805) | SIPO / Selective-Inference Policy Optimization | 2026 | [Code](https://github.com/Zenghuang-Fu/SIPO) | arXiv |
 
 
 ### 4️⃣ Action-level and Tool-use Credit Assignment
