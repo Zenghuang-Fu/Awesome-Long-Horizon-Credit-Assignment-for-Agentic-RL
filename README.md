@@ -133,6 +133,7 @@ Benchmarks, environments, and evaluation protocols for long-horizon agentic RL a
 | [Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning](https://arxiv.org/abs/2601.10306) | EAPO | 2026 | - | arXiv |
 | [Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation](https://arxiv.org/abs/2505.20825) | RioRAG | 2025 | [Code](https://github.com/RUCAIBox/RioRAG) | arXiv |
 | [PiCA: Pivot-Based Credit Assignment for Search Agentic Reinforcement Learning](https://arxiv.org/abs/2605.09287) | PiCA / Pivot-Based Credit Assignment | 2026 | [Code](https://github.com/novdream/PiCA) | arXiv |
+| [MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](https://arxiv.org/abs/2610.23234) | MultiAgent-OPD | 2026 | - | arXiv |
 
 
 
